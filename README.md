@@ -175,7 +175,7 @@ Accuracy and clarity are the priority.
 
 ## 👨‍💻 About the Developer
 
-Hi, I’m Ari.
+Hi, I’m ZERO.
 
 Prism started as a personal tool because I wanted more control over my own academic data.
 
